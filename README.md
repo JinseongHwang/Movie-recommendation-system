@@ -1,4 +1,4 @@
-# Movie-recommendation-system
+# Movie-recommender-system
 
 <br>
 
